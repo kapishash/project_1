@@ -11,6 +11,10 @@ from src.project_1.config.configuration import ModelEvaluationConfig
 from pathlib import Path
 from src.project_1.utils.common import save_json
 
+os.environ['MLFLOW_TRACKING_URI'] = 'https://dagshub.com/kapishashtankar10/project_1.mlflow'
+os.environ['MLFLOW_TRACKING_USERNAME'] = "kapishashtankar10"
+os.environ['MLFLOW_TRACKING_PASSWORD'] = "ce56225adf5ce6ac697a37d8d6ddd2e9ba984d12"
+
 
 class ModelEvaluation:
     def __init__(self, config: ModelEvaluationConfig):
