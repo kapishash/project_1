@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/udemy/project_1/mlruns/0/abe33d124f3945e1b836c9a53a6999bf/artifacts
+end_time: 1736828920897
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: abe33d124f3945e1b836c9a53a6999bf
+run_name: resilient-zebra-596
+run_uuid: abe33d124f3945e1b836c9a53a6999bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736828890403
+status: 3
+tags: []
+user_id: JMS

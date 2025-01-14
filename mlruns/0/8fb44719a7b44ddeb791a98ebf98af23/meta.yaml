@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/udemy/project_1/mlruns/0/8fb44719a7b44ddeb791a98ebf98af23/artifacts
+end_time: 1736828815093
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8fb44719a7b44ddeb791a98ebf98af23
+run_name: victorious-lamb-166
+run_uuid: 8fb44719a7b44ddeb791a98ebf98af23
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736828814986
+status: 4
+tags: []
+user_id: JMS

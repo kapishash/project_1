@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/udemy/project_1/mlruns/0/3729ebdb0749434d88daa9bccc2fcaec/artifacts
+end_time: 1736829289707
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3729ebdb0749434d88daa9bccc2fcaec
+run_name: trusting-loon-55
+run_uuid: 3729ebdb0749434d88daa9bccc2fcaec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736829271570
+status: 3
+tags: []
+user_id: JMS
